@@ -8,8 +8,10 @@ For repeatability, transparency, and efficiency, the data were compiled in R int
 
 This code is supplementary material to the following paper:
 
-Harris, L.R., Raimondo, D., Sink, K., Holness, S.D., Skowno, A.L., in review. Sandy beach ecosystem and species red listing highlight priorities for beach conservation and restoration.
+Harris, L.R., Raimondo, D., Sink, K., Holness, S.D., Skowno, A.L., 2025. Sandy beach ecosystem and species red listing highlight priorities for beach conservation and restoration.
 
 For more information, and a pdf explaining the code, see: *doi to follow when published*
 
 Please cite the paper if you use this code.
+
+Note: A list of links to the individual species assessments will be added to this repository when the assessments are published on the IUCN website as part of the next update of the Red List of Species (anticipated: October 2025).
