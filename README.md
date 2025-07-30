@@ -10,7 +10,7 @@ This code is supplementary material to the following paper:
 
 Harris, L.R., Raimondo, D., Sink, K., Holness, S.D., Skowno, A.L., 2025. Sandy beach ecosystem and species red listing highlight priorities for beach conservation and restoration.
 
-For more information, and a pdf explaining the code, see: *doi to follow when published*
+For more information, and a pdf explaining the code, see: [https://doi.org/10.1016/j.ecss.2025.109447](https://doi.org/10.1016/j.ecss.2025.109447
 
 Please cite the paper if you use this code.
 
